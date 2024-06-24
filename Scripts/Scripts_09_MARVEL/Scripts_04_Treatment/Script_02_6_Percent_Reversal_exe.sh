@@ -1,0 +1,12 @@
+cd /Users/seanwen/Documents/Hanifi/Scripts/Scripts_09_MARVEL/Scripts_04_Treatment/
+
+Rscript Script_02_1_1_Percent\ Reversal_dCas13_byEventType.sh
+Rscript Script_02_1_2_Percent\ Reversal_dCas13_AllEventType.sh
+Rscript Script_02_2_1_Percent\ Reversal_dCas13_ASO-dCas13-Overlap_byEventType.sh
+Rscript Script_02_2_2_Percent\ Reversal_dCas13_ASO-dCas13-Overlap_AllEventType.sh
+Rscript Script_02_3_1_Percent\ Reversal_ASO-high_byEventType.sh
+Rscript Script_02_3_2_Percent\ Reversal_ASO-high_AllEventType.sh
+Rscript Script_02_4_1_Percent\ Reversal_ASO-high_ASO-dCas13-Overlap_byEventType.sh
+Rscript Script_02_4_2_Percent\ Reversal_ASO-high_ASO-dCas13-Overlap_AllEventType.sh
+Rscript Script_02_5_1_Percent\ Reversal_ASO-low_byEventType.sh
+Rscript Script_02_5_2_Percent\ Reversal_ASO-low_AllEventType.sh
