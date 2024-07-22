@@ -11,7 +11,7 @@ While RNA-targeting strategies are powerful tools for disease therapy, challenge
 ## Manuscript and contact information
 **Robust CRISPR/dCas13 RNA blockers specifically perturb miRNA-target interactions and rescue type 1 myotonic dystrophy pathology**
 
-Muhammad Hanifi<sup>1</sup>, Perihan Seda Ates-Kalkan<sup>2</sup>, Sean Wen<sup>1,3</sup>, Mathieu Fischer<sup>4</sup>, Amanda Kroesen<sup>2</sup>, Zulin Yu<sup>2</sup>, Matthew Wood<sup>4</sup>, Supat Thongjuea<sup>1,3,5,‡</sup>, Adam Mead<sup>1,5</sup>, Tudor Alexandru Fulga<sup>1</sup>, Carlo Rinaldi<sup>4,6</sup>, and Tatjana Sauka-Spengler\*<sup>1,2,3</sup>
+Muhammad Hanifi<sup>1</sup>, Perihan Seda Ates-Kalkan<sup>2</sup>, Sean Wen<sup>1,3</sup>, Mathieu Fischer<sup>4</sup>, Amanda Kroesen<sup>2</sup>, Zulin Yu<sup>2</sup>, Matthew Wood<sup>4</sup>, Supat Thongjuea<sup>1,3,5</sup>, Adam Mead<sup>1,5</sup>, Tudor Alexandru Fulga<sup>1</sup>, Carlo Rinaldi<sup>4,6</sup>, and Tatjana Sauka-Spengler<sup>1,2,3,*</sup>
 
 **\*Corresponding author: Tatjana Sauka-Spengler (TSauka-Spengler@stowers.org)**
 
